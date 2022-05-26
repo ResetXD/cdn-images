@@ -8,5 +8,4 @@ app = fastapi.FastAPI()
 async def read_image(malid):
     return FileResponse(f"./imagedata/{malid}.png")
 
-
     
