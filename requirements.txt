@@ -1,0 +1,5 @@
+uvicorn
+aiohttp
+pydantic
+fastapi
+jinja2
